@@ -55,5 +55,5 @@ Este é um aplicativo mobile desenvolvido em **Kotlin** com a interface definida
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/Vitaedoca/auth_xml.git
+   cd auth_xml
